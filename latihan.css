@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+
+
+.left-side{
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 8px 8px 8px 8px;
+    
+}
+
+#search-bar{
+    
+    flex-direction:row;
+}
+
+
+
+.right-side{
+    
+    justify-content: space-between;
+    padding: 8px 8px 8px 8px;
+    
+}
